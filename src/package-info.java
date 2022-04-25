@@ -9,6 +9,7 @@ public class App {
         Cat cat = new Cat("Barsik", "White", 2);
 
 
+
         Animal[] catsAndDogs = {
                 new Cat("Barsik", "White", 2),
                 new Dog("Murzik", "White", 2)
